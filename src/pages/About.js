@@ -45,7 +45,7 @@ const projects = [
       "https://cdn.pixabay.com/photo/2017/07/27/15/24/movie-2545676_640.jpg",
     title: "Legend Movie",
     text: "A dynamic movie app with detail views, link routing, and live content search.",
-    link: "https://movie-legend-gybopsh0u-sreyly-long.vercel.app/",
+    link: "https://movie-website-ecru-iota.vercel.app/",
     tags: ["React", "Search", "Dynamic"],
   },
   {
