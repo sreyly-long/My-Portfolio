@@ -54,7 +54,7 @@ function Contact() {
                 <span className="ico"><i className="bi bi-envelope" /></span>
                 <div>
                   <div className="label">Email</div>
-                  <div className="value">longsreyly85@wecambodia.com</div>
+                  <div className="value">longsreyly85@gmail.com</div>
                 </div>
               </a>
               <a className="contact-item" href="https://t.me/+855763643789" target="_blank" rel="noopener noreferrer">
